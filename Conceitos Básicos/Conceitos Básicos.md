@@ -1,0 +1,6 @@
+[[algoritmo]]
+[[GIT]]
+[[GitHub]]
+[[Banco de dados]]
+[[Hardware e Software]]
+[[Tipos de Dados]]

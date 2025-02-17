@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"c36fe5dc046679f8","x":-500,"y":-40,"width":250,"height":60,"type":"text","text":"Linha De Códido principal"},
+		{"id":"9476900924118455","x":370,"y":-47,"width":250,"height":60,"type":"text","text":"Linha De Código principal"}
+	],
+	"edges":[
+		{"id":"342c30308e36914e","fromNode":"c36fe5dc046679f8","fromSide":"right","toNode":"9476900924118455","toSide":"left"},
+		{"id":"48987c4f1068e557","fromNode":"9476900924118455","fromSide":"left","toNode":"c36fe5dc046679f8","toSide":"right"}
+	]
+}

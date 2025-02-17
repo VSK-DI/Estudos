@@ -1,0 +1,4 @@
+- [[Linux]]: um sistema operacional open source e o maior projeto desse tipo no mundo
+- [[Apache]]: um servidor web multiplataformas e open source que teve um papel fundamental no começo da Internet
+- [[MySQL]]: um sistema de gerenciamento open source de bancos de dados relacionais usado por muitas aplicações web orientadas a bancos de dados
+- [[PHP]]: uma linguagem genérica de scripts usada no desenvolvimento de software (às vezes, o Perl ou o Python são substituídos)

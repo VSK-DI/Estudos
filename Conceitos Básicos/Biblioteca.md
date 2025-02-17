@@ -1,0 +1,1 @@
+Uma biblioteca é um conjunto de funções ou métodos com funcionalidade específicas que os desenvolvedores podem adicionar ao projeto conforme necessário.
